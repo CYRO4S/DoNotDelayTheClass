@@ -1,0 +1,10 @@
+c:\users\1\documents\visual studio 2012\Projects\拖堂杀手\拖堂杀手\bin\Debug\拖堂杀手.exe.config
+c:\users\1\documents\visual studio 2012\Projects\拖堂杀手\拖堂杀手\bin\Debug\拖堂杀手.exe
+c:\users\1\documents\visual studio 2012\Projects\拖堂杀手\拖堂杀手\bin\Debug\拖堂杀手.pdb
+c:\users\1\documents\visual studio 2012\Projects\拖堂杀手\拖堂杀手\bin\Debug\拖堂杀手.xml
+c:\users\1\documents\visual studio 2012\Projects\拖堂杀手\拖堂杀手\obj\Debug\拖堂杀手.Form1.resources
+c:\users\1\documents\visual studio 2012\Projects\拖堂杀手\拖堂杀手\obj\Debug\拖堂杀手.Resources.resources
+c:\users\1\documents\visual studio 2012\Projects\拖堂杀手\拖堂杀手\obj\Debug\拖堂杀手.vbproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2012\Projects\拖堂杀手\拖堂杀手\obj\Debug\拖堂杀手.exe
+c:\users\1\documents\visual studio 2012\Projects\拖堂杀手\拖堂杀手\obj\Debug\拖堂杀手.xml
+c:\users\1\documents\visual studio 2012\Projects\拖堂杀手\拖堂杀手\obj\Debug\拖堂杀手.pdb
